@@ -15,15 +15,15 @@ These results emphasize the importance of accounting for conformational flexibil
 ---
 
 ## Repository Structure
-. \
-├── dataset/ # (empty) Download dataset from Zenodo (link below) \
-├── dataset_list/ # Dataset names for site and search prediction (PPI & Ab–Ag) \
-├── model/ # Pretrained dMaSIF-flex models for Ab–Ag tasks \
-├── src/ # Modified dMaSIF code \
-├── Arguments.py # Script arguments for training & inference \
-├── environment.txt # Conda/virtualenv environment specification \
-├── main_inference.py # Inference script \
-└── main_training.py # Training script \
+
+dataset/ # (empty) Download dataset from Zenodo (link below) \
+dataset_list/ # Dataset names for site and search prediction (PPI & Ab–Ag) \
+model/ # Pretrained dMaSIF-flex models for Ab–Ag tasks \
+src/ # Modified dMaSIF code \
+Arguments.py # Script arguments for training & inference \
+environment.txt # Conda/virtualenv environment specification \
+main_inference.py # Inference script \
+main_training.py # Training script \
 
 
 ---
